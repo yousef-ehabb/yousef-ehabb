@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yousef%20Ehab&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Software%20Developer%20%7C%20AI%20Instructor&descAlignY=57&descSize=17" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=640&lines=Computer+Science+%40+Assiut+University+%F0%9F%8E%93;Full-Stack+%26+Mobile+Developer+%F0%9F%9A%80;AI+%26+Coding+Instructor+%F0%9F%A7%A0;Open+to+Internship+Opportunities+%F0%9F%92%BC;Building+Digital+Solutions+That+Matter+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=640&lines=Computer+Science+%40+Assiut+University;Full-Stack+%26+Mobile+Developer;AI+%26+Coding+Instructor;Open+to+Internship+Opportunities;Building+Digital+Solutions+That+Matter)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,39 +18,31 @@
 
 ---
 
-## About Me
+## 👋 About Me
 
-```python
-class YousefEhab:
-    def __init__(self):
-        self.name        = "Yousef Ehab"
-        self.role        = "CS Student & Software Developer"
-        self.university  = "Assiut University"
-        self.location    = "Egypt"
-        self.looking_for = "Software Engineering Internship"
+Hi! I'm **Yousef Ehab**, a passionate Computer Science student at **Assiut University, Egypt** 🇪🇬
 
-    def get_skills(self):
-        return {
-            "languages":   ["Python", "Java", "Dart/Flutter", "JavaScript"],
-            "web":         ["HTML5", "CSS3", "JavaScript", "React"],
-            "databases":   ["MySQL", "MS Access"],
-            "concepts":    ["OOP", "Data Structures", "Algorithms"],
-            "soft_skills": ["Leadership", "Problem Solving", "Communication"]
-        }
+I love building real-world software solutions — from mobile apps and web platforms to automation tools. Beyond coding, I work as an **AI & Coding Instructor**, where I teach Python, programming fundamentals, and AI concepts to the next generation of developers.
 
-    def currently_learning(self):
-        return ["TypeScript", "Next.js", "System Design"]
+<br/>
 
-    def life_philosophy(self):
-        return "Code with purpose. Teach with passion. Build with impact."
+| 🎓 Education | 💼 Experience | 🌍 Location |
+|:---:|:---:|:---:|
+| CS @ Assiut University | AI & Coding Instructor | Egypt |
 
-me = YousefEhab()
-print(me.life_philosophy())
-```
+<br/>
+
+- 🔭 Currently building full-stack web & mobile applications
+- 🌱 Learning **TypeScript**, **Next.js** & **System Design**
+- 💼 Actively seeking a **Software Engineering Internship**
+- 🤝 Open to collaborations and open-source contributions
+- ⚡ Fun fact: I debug code faster than I make coffee
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
+
+<div align="center">
 
 **Languages**
 
@@ -75,9 +67,13 @@ print(me.life_philosophy())
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+</div>
+
 ---
 
-## Currently Learning
+## 📚 Currently Learning
+
+<div align="center">
 
 | Technology | Progress | Why? |
 |:---:|:---:|:---:|
@@ -85,9 +81,11 @@ print(me.life_philosophy())
 | Next.js | 60% | Full-stack React framework |
 | System Design | 40% | Interview prep |
 
+</div>
+
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yousef-ehabb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9"/>
@@ -100,7 +98,7 @@ print(me.life_philosophy())
 
 ---
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yousef-ehabb&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
@@ -108,7 +106,7 @@ print(me.life_philosophy())
 
 ---
 
-## Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousef-ehabb&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true"/>
@@ -116,7 +114,7 @@ print(me.life_philosophy())
 
 ---
 
-## Snake Animation
+## 🐍 Snake Animation
 
 <div align="center">
   <picture>
@@ -128,41 +126,53 @@ print(me.life_philosophy())
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
+
+<div align="center">
 
 | Project | Description | Stack |
 |:---:|:---:|:---:|
-| [Sushi & Grill Ordering App](https://github.com/yousef-ehabb/sushi-grill-ordering-app) | Full-stack restaurant ordering platform with real-time orders, auth & admin dashboard | React, TypeScript, InsForge |
+| [Sushi & Grill Ordering App](https://github.com/yousef-ehabb/sushi-grill-ordering-app) | Full-stack restaurant ordering platform with real-time orders, OTP auth & admin dashboard | React, TypeScript, InsForge |
+
+</div>
 
 ---
 
-## Experience
+## 🎓 Experience
 
-```
-AI & Coding Instructor
-- Teaching Python, programming fundamentals & AI
-- Mentoring students through hands-on projects
+<div align="center">
 
-Computer Science @ Assiut University
-- OOP, Data Structures, Databases
-- Seeking software engineering internship 2025
-```
+| Role | Focus | Impact |
+|:---:|:---:|:---:|
+| AI & Coding Instructor | Python, Programming, AI | Mentoring next-gen developers |
+| CS Student | OOP, DSA, Databases | Building real-world projects |
+
+</div>
 
 ---
 
-## Open to Opportunities
+## 💼 Open to Opportunities
 
-> I am actively seeking Software Engineering Internships! If you are a recruiter or team looking for a passionate, driven CS student, let us connect!
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yousef-ehab)
-[![Gmail](https://img.shields.io/badge/Gmail-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousef@gmail.com)
+> ### Actively Seeking — Software Engineering Internship 2025
+>
+> I'm a motivated CS student with hands-on project experience, strong problem-solving skills,
+> and a passion for building impactful digital solutions. Let's connect!
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yousefehabki)
+[![Gmail](https://img.shields.io/badge/Gmail-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousef.khalaf0074@compit.aun.edu.eg)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yousef-ehabb)
+
+</div>
 
 ---
 
 <div align="center">
 
-> "The best way to predict the future is to build it." - Alan Kay
+> *"The best way to predict the future is to build it."* — Alan Kay
 
 **Thanks for visiting! Drop a star on any repo you find interesting**
 

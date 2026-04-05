@@ -19,9 +19,6 @@ I'm a Computer Science student at Assiut University who loves building software 
 
 
 ### 📫 Let's Connect
-I'm actively looking for **Software Engineering Internship** opportunities where I can learn, contribute, and grow.
-
-
 - **LinkedIn:** [in/yousefehabki](https://linkedin.com/in/yousefehabki)
 - **Email:** [yousef.khalaf0074@compit.aun.edu.eg](mailto:yousef.khalaf0074@compit.aun.edu.eg)
 
